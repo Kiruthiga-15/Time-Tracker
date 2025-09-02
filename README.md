@@ -225,7 +225,6 @@ time-tracker/
 ### 📸 Screenshots
 ![Time Tracker Screenshot](timetracker.png)
 
-gvjhbkjn
 
 🛠️ Tech Stack
 React + TypeScript
