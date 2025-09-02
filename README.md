@@ -223,7 +223,8 @@ time-tracker/
 ├── vite.config.ts
 └── package.json
 ### 📸 Screenshots
-![Time Tracker Screenshot](public/timetracker.png)
+![Time Tracker Screenshot](timetracker.png)
+
 
 
 🛠️ Tech Stack
