@@ -156,7 +156,7 @@ time-tracker/
 
 Add your app screenshots here for better visibility.
 
-![Time Tracker Screenshot](public/assets/timetracker.png)
+![Time Tracker Screenshot](public/timetracker.png)
 
 Example:
 
